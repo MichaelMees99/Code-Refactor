@@ -1,6 +1,6 @@
 # Code Refactor
 
-A complete refactor of html and css code that did not follow accessability standards. Html elements now follow semantic structure and made much more readable. Css elements consolidated to significantly shorten the css file, 200~ lines to 134. 
+A complete refactor of HTML and CSS code that did not follow accessability standards. HTML elements now follow semantic structure and made much more readable. CSS elements consolidated to significantly shorten the CSS file, 200~ lines to 134. 
 
 ## Before Refactor
 
